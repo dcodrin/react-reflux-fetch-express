@@ -1,3 +1,7 @@
+This project is based on my react-seed repo.
+You also need the simple-express-server for this to work. Check my github.
+See the description below for react-seed.
+
 This is a simple react skeleton.
 It uses the following npm packages:
 1. Browserify
